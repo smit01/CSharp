@@ -1,0 +1,32 @@
+我們來看看人類如何數數，以及電腦如何數數，它如何使用二進位儲存與處理資料:
+How high can you count on your fingers?
+https://youtu.be/UixU1oRW64Q
+
+
+Solutions: 15 招立蛋
+https://www.youtube.com/watch?v=qWWhNaG2g4w
+
+
+
+物件導向程式設計：為何說composition優於inheritance？
+https://tw.twincl.com/@arthurtw/*662v
+
+
+要如何找出物件呢？ 物件導向初學者應該要知道的事情(一)
+http://milikao.pixnet.net/blog/post/543590
+
+為什麼我找出來的物件都是UI物件？ 物件導向初學者應該要知道的事情(二)
+http://milikao.pixnet.net/blog/post/543596
+
+到底誰該去繼承誰？ 物件導向初學者應該要知道的事情(三)
+http://milikao.pixnet.net/blog/post/543592
+
+繼承是父子關係？才怪！ 物件導向初學者應該要知道的事情(四)
+http://milikao.pixnet.net/blog/post/543716
+
+
+來篇讓人反思的文章: 
+我不喜歡物件導向
+http://blog.udn.com/yccsonar/7085309
+
+
